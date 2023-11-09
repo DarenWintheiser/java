@@ -1,5 +1,5 @@
-# Eclipse Workspace
-**/.recommenders/**
+  Eclipse Workspace
+!*/.recommenders/**
 **/.sonarlint/**
 **/.metadata/**
 **/Servers/**
@@ -33,4 +33,4 @@ nb-configuration.xml
 **local.properties**
 **.springBeans
 **/target/**
-**release.properties
+**release.properties 
